@@ -1,0 +1,254 @@
+/*
+  localize.strings
+  Harsh iShop
+
+  Created by Harsh iOS Developer on 06/07/20.
+  Copyright © 2020 Harsh. All rights reserved.
+*/
+
+"Next" = "التالى";
+"Skip" = "تخطى";
+
+"Largest Product Variety" = "أكبر تشكيلة من المنتجات";
+"Order Now with the largest selection of Products" = "اطلب الآن مع أكبر تشكيلة من";
+"Oops!" = "إنذار";
+"Try Again" = "حاول مجددا";
+
+"Browse your Favourite Category" = "تصفح فئتك المفضلة";
+"Pick from thousands of products" = "اختر من بين آلاف المنتجات";
+
+"Get your delivery" = "احصل على توصيلك";
+"Choose a time. Check out. Relax" = "اختر الوقت. الدفع. الاسترخاء";
+
+"Welcome" = "أهلا بك";
+"Login Using Mobile" = "المحمول";
+"SIGN UP" = "سجل";
+"LOGIN" = "تسجيل الدخول";
+"By using myDukaan, you agree to the terms and conditions and privacy policy" = "باستخدام E-Commerse ، فإنك توافق على الشروط والأحكام وسياسة الخصوصية";
+"terms and conditions" = "الأحكام والشروط";
+"privacy policy" = "سياسة خاصة";
+"SKIP" = "تخطى";
+"Login with Facebook" = "تسجيل الدخول الفيسبوك";
+"Login with Google" = "تسجيل الدخول جوجل";
+
+"Mobile Number" = "رقم الهاتف المحمول";
+"Please enter your mobile number" = "الرجاء إدخال رقم هاتفك المحمول";
+"Enter your mobile number" = "أدخل رقم هاتفك المحمول";
+"Next" = "التالى";
+"Verify Mobile Number" = "تحقق من رقم الهاتف المحمول";
+"Please enter the verification code that was sent to" = "يرجى إدخال رمز التحقق الذي تم إرساله إلى رقم هاتفك المحمول";
+"Resend" = "إعادة إرسال";
+"Did’nt receive the code ?" = "ألم تتسلم الرمز؟";
+
+
+"Resend Email" = "إعادة إرسال البريد الإلكتروني";
+"Did’nt receive the Email ?" = "ألم تتلق البريد الإلكتروني؟?";
+"Back to Login Page" = "العودة إلى صفحة تسجيل الدخول";
+"We have send you an Email with a link
+to change your Account Password" = "لقد أرسلنا لك بريدًا إلكترونيًا يحتوي على رابط
+لتغيير كلمة مرور حسابك";
+"We've send you an Email" = "لقد أرسلنا لك بريدًا إلكترونيًا";
+"Forgort Password" = "هل نسيت كلمة المرور";
+
+
+"CONTINUE" = "استمر";
+"Enter Email Address" = "أدخل عنوان البريد الالكتروني";
+"Email Address" = "عنوان البريد الالكترونى";
+"Please enter your email address. You will receive a link to create a new password via email." = "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك. سوف تتلقى رابطًا لإنشاء كلمة مرور جديدة عبر البريد الإلكتروني.";
+
+
+"Login" = "تسجيل الدخول";
+"Email" = "البريد الإلكتروني";
+"Enter Your Email" = "أدخل بريدك الإلكتروني";
+"Enter Your Password" = "ادخل رقمك السري";
+"Forgot Password ?" = "هل نسيت كلمة المرور ؟";
+"Already have account ?" = "لديك حساب بالفعل؟";
+"Register" = "تسجيل";
+
+
+"Registation" = "التسجيل";
+"Please Enter your Information" = "يرجى إدخال معلوماتك";
+"First Name" = "الاسم الاول";
+"Enter Your First Name" = "أدخل اسمك الأول";
+"Last Name" = "الكنية";
+"Mobile Number" = "رقم الهاتف المحمول";
+"Password" = "كلمه السر";
+"Enter Your Password" = "ادخل رقمك السري";
+"Confirm Password" = "تأكيد كلمة المرور";
+"Enter Your Confirm Password" = "أدخل كلمة المرور الخاصة بك";
+"Complete your Registration" = "إتمام عملية التسجيل";
+
+
+"Please Enter Your First Name" = "يرجى ادخال الاسم الاول";
+"Please Enter Your Last Name" = "يرجى إدخال اسمك الأخير";
+"Please Enter Your Email" = "رجاءا أدخل بريدك الإلكتروني";
+"Please Enter Your Mobile Number" = "الرجاء إدخال رقم هاتفك المحمول";
+"Please Enter Mobile Number" = "الرجاء إدخال رقم هاتفك المحمول";
+"Please Enter Your Password" = "من فضلك أدخل رقمك السري";
+"Enter Your Last Name" = "أدخل اسمك الأخير";
+"Please Enter Your Confirm Password" = "يرجى إدخال تأكيد كلمة المرور الخاصة بك";
+"Please Enter Valid Email Address" = "الرجاء إدخال عنوان بريد إلكتروني صالح";
+"Password and Confirm Password are not same" = "كلمة المرور وتأكيد كلمة المرور ليست هي نفسها";
+
+"Mobile Verification" = "التحقق من الجوال";
+"Verification Code" = "شيفرة التأكيد";
+"Enter Your Verification Code" = "أدخل رمز التحقق الخاص بك";
+"Please Enter Valid Mobile Number" = "الرجاء إدخال رقم هاتف صحيح";
+
+
+"Location" = "موقعك";
+"Please Select Your Location" = "يرجى تحديد موقعك";
+"Select your location" = "حدد موقعك";
+"Select your preffered location" = "حدد موقعك المفضل";
+
+
+"Any Field Shold not be empty" = "لا يكون أي حقل فارغ فارغًا";
+"OTP must be 4 Digit" = "لا يكون أي حقل فارغ فارغًا";
+"Submit OTP" = "إرسال";
+
+
+
+
+"View All Categories" = "عرض جميع الفئات";
+"View All" = "عرض الكل";
+"Categories" = "التصنيفات";
+"Search" = "بحث";
+"Done" = "منجز";
+
+"HOME" = "HOME";
+"FAVOURITE" = "FAVOURITE";
+"CART" = "CART";
+"PROFILE" = "PROFILE";
+
+
+"Product Detail" = "تفاصيل المنتج";
+"Proceed To Card" = "انتقل إلى البطاقة";
+"Buy Now" = "اشتري الآن";
+"Add To Cart" = "أضف إلى السلة";
+"Shipping Address" = "عنوان الشحن";
+"Address Type" = "نوع العنوان";
+"Address" = "عنوان";
+"Delivery Date & Time" = "تاريخ ليم";
+"Delivery Date" = "تاريخ التسليم او الوصول";
+"Delivery Time" = "موعد التسليم";
+"Sub Total" = "المجموع الفرعي";
+"Vat" = "ضريبة";
+"Delivery Charges" = "رسوم التوصيل";
+"Promo Code Discount" = "خصم الرمز الترويجي";
+"Total" = "مجموع";
+"Apply Promo Code" = "تطبيق الرمز الترويجي";
+"Place My Order" = "ضع طلبي";
+"Select Address" = "حدد العنوان";
+"Street Address" = "عنوان الشارع";
+"Address Type" = "نوع العنوان";
+"Add Adddress" = "نوع العنوان...";
+"Home" = "منزل";
+"Work" = "عمل";
+"Other" = "آخر";
+"Appartment" = "شقة";
+"House" = "منزل";
+"Area" = "منطقة";
+"City" = "مدينة";
+"Select location on Map" = "حدد الموقع على الخريطة";
+"Additional Notes" = "ملاحظات إضافية";
+"Next" = "التالى";
+"Congratulations" = "تهانينا";
+"Your order has been sent" = "تم إرسال طلبك";
+"Your Order Id is" = "أجل معرف الخاص بك هو";
+"DONE" = "فعله";
+"Delete" = "حذف";
+"Edit" = "تعديل";
+
+"Cash on Delivery" = "الدفع عند الاستلام";
+"Card On Delivery" = "بطاقة عند التسليم";
+
+"Profile" = "الملف الشخصي";
+"Edit Profile" = "تعديل الملف الشخصي";
+"My Orders" = "طلباتي";
+"Notifications" = "إشعارات";
+"My Favourites" = "المفضلة";
+"Categories" = "التصنيفات";
+"Help Support" = "ساعد لدعم";
+"Privacy Policy" = "سياسة خاصة";
+"Share App" = "شارك التطبيق";
+"Edit Profile" = "تعديل الملف الشخصي";
+"Click on Lock Button to Change Password" = "انقر على زر القفل لتغيير كلمة المرور";
+"SAVE" = "حفظ";
+"Change Password" = "غير كلمة السر";
+"Please Enter New Password with Current Passsword" = "يرجى إدخال كلمة مرور جديدة بكلمة المرور الحالية";
+"My Orders" = "طلباتي";
+"Order ID:" = "رقم التعريف الخاص بالطلب:";
+"Total Price" = "السعر الكلي";
+"Delivery Date:" = "تاريخ التس:";
+"Cancelled" = "ألغيت";
+"Delivery Information" = "معلومات التوصيل";
+"Delivery Address" = "عنوان التسليم";
+"Notes" = "ملاحظات";
+"Notifications" = "إشعارات";
+"Help Support" = "ساعد لدعم";
+"Privacy Policy" = "سياسة خاصة";
+"Add Address" = "اضف عنوان";
+
+"My Cart" = "سلة التسوق";
+"Select Date" = "تاريخ التسليم او";
+"Select Time" = "حدد الوقت";
+"Pickup" = "امسك";
+"Payment Method" = "طريقة الدفع او السداد";
+
+"Change Password" = "غير كلمة السر";
+"Current Password" = "كلمة المرور الحالي";
+"New Password" = "كلمة سر جديدة";
+"Logout" = "تسجيل خروج";
+"My Orders Details" = "تفاصيل أوامري";
+
+"Pending" = "قيد الانتظار";
+"In Progress" = "في تقدم";
+"On The Way" = "علي الطريق";
+"Complete" = "اكتمال";
+"Rejected" = "مرفوض";
+"Favourites" = "المفضلة";
+
+"Please Add Some Items to Cart" = "الرجاء إضافة بعض العناصر إلى سلة التسوق";
+"Please Select Address" = "يرجى تحديد العنوان";
+"Please Select Date" = "يرجى تحديد التاريخ";
+"Please Select Time" = "يرجى تحديد الوقت";
+
+"You have Sucessfully Cancelled your Order" = "لقد ألغيت طلبك بنجاح";
+"Order Cancelled" = "تم الغاء الأمر او الطلب";
+"Rating Submitted" = "تم إرسال التقييم";
+"Please Enter Additional Notes" = "الرجاء إدخال ملاحظات إضافية";
+"Please Enter Area" = "الرجاء إدخال المنطقة";
+"Please Enter Street Address" = "يرجى إدخال عنوان الشارع";
+"Please Enter House" = "من فضلك ادخل البيت";
+"Please Enter Appartment Name" = "الرجاء إدخال اسم الشقة";
+"Invalid PromoCode !" = "الرمز الترويجي غير صالح !";
+"Change Password Successfully" = "تغيير كلمة المرور بنجاح";
+"New Password and Confirm Password does not match" = "كلمة المرور الجديدة وتأكيد كلمة المرور غير متطابقة";
+"Please Enter Confirm Password" = "يرجى إدخال تأكيد كلمة المرور";
+"Please Enter New Password" = "يرجى إدخال كلمة مرور جديدة";
+"Please Enter Current Password" = "الرجاء إدخال كلمة المرور الحالية";
+"Profile Picture Updated" = "تم تحديث صورة الملف الشخصي";
+"Updated Sucessfully" = "تم التحديث بنجاح";
+"Sorry ! You can not change your Mobile Number" = "آسف ! لا يمكنك تغيير رقم هاتفك المحمول";
+"Do you Really want to Update your Profile ?" = "هل تريد حقًا تحديث ملفك الشخصي؟";
+
+"User Information" = "معلومات المستخدم";
+"SignUp Information" = "معلومات الاشتراك";
+"Here is What we get from Your Social Handles" = "إليك ما نحصل عليه من مقابضك الاجتماعية";
+"Please Select City" = "اختر المدينة";
+"Enter Promo Code" = "إدخال الرمز الترويجي";
+"Enter Promocode Here" = "أدخل الرمز الترويجي هنا";
+"Apply" = "تطبيق";
+"Recently Viewed" = "شوهدت مؤخرا";
+"Your Selected Location is:" = "الموقع الذي اخترته هو:";
+"Postal Code" = "الكود البريدى";
+"Done" = "منجز";
+"Location" = "موقعك";
+"Location Services are disabled" = "تم تعطيل خدمات الموقع";
+"Please enable Location Services in your Settings" = "يرجى تمكين خدمات الموقع في الإعدادات الخاصة بك";
+"Are you sure you want to cancel order?" = "هل أنت واثق بأك تريد أن تلغي طلب الشراء؟";
+"Are you Sure you want to logout?" = "هل أنت متأكد أنك تريد تسجيل الخروج?";
+"Contact Support" = "اتصل بالدعم";
+"Cancel Order" = "الغاء الطلب";
+"Submit Rating" = "إرسال التقييم";
+

@@ -1,0 +1,6 @@
+framework module Pods_Harsh_iShop_Harsh_iShopUITests {
+  umbrella header "Pods-Harsh iShop-Harsh iShopUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

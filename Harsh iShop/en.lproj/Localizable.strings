@@ -1,0 +1,260 @@
+/*
+  localize.strings
+  Harsh iShop
+
+  Created by Harsh iOS Developer on 06/07/20.
+  Copyright © 2020 Harsh. All rights reserved.
+*/
+"Next" = "Next";
+"Skip" = "Skip";
+
+
+"Largest Product Variety" = "Largest Product Variety";
+"Order Now with the largest selection of Products" = "Order Now with the largest selection of Products";
+
+
+"Browse your Favourite Category" = "Browse your Favourite Category";
+"Pick from thousands of products" = "Pick from thousands of products";
+
+
+"Get your delivery" = "Get your delivery";
+"Choose a time. Check out. Relax" = "Choose a time. Check out. Relax";
+
+
+"Welcome" = "Welcome";
+"Login Using Mobile" = "Login Using Mobile";
+"SIGN UP" = "SIGN UP";
+"LOGIN" = "LOGIN";
+"By using myDukaan, you agree to the terms and conditions and privacy policy" = "By using E-Commerse, you agree to the terms and conditions and privacy policy";
+"terms and conditions" = "terms and conditions";
+"privacy policy" = "privacy policy";
+
+"Login with Facebook" = "Login with Facebook";
+"Login with Google" = "Login with Google";
+"SKIP" = "SKIP";
+
+
+"Mobile Number" = "Mobile Number";
+"Please enter your mobile number" = "Please enter your mobile number";
+"Enter your mobile number" = "Enter your mobile number";
+"Next" = "Next";
+"Verify Mobile Number" = "Verify Mobile Number";
+"Please enter the verification code that was sent to your Mobile Number" = "Please enter the verification code that was sent to your Mobile Number";
+"Resend" = "Resend";
+"Did’nt receive the code ?" = "Did’nt receive the code ?";
+"Mobile Verification" = "Mobile Verification";
+
+
+"Resend Email" = "Resend Email";
+"Did’nt receive the Email ?" = "Did’nt receive the Email ?";
+"Back to Login Page" = "Back to Login Page";
+"We have send you an Email with a link
+to change your Account Password" = "We have send you an Email with a link
+to change your Account Password";
+"We've send you an Email" = "We've send you an Email";
+"Forgort Password" = "Forgort Password";
+
+
+"CONTINUE" = "CONTINUE";
+"Enter Email Address" = "Enter Email Address";
+"Email Address" = "Email Address";
+"Please enter your email address. You will receive a link to create a new password via email." = "Please enter your email address. You will receive a link to create a new password via email.";
+
+
+"Login" = "Login";
+"Email" = "Email";
+"Enter Your Email" = "Enter Your Email";
+"Enter Your Password" = "Enter Your Password";
+"Forgot Password ?" = "Forgot Password ?";
+"Already have account ?" = "Already have account ?";
+"Register" = "Register";
+
+
+"Registation" = "Registation";
+"Register" = "Register";
+"Please Enter your Information" = "Please Enter your Information";
+"First Name" = "First Name";
+"Enter Your First Name" = "Enter Your First Name";
+"Last Name" = "Last Name";
+"Email" = "Email";
+"Mobile Number" = "Mobile Number";
+"Password" = "Password";"Enter Your Password" = "Enter Your Password";
+"Confirm Password" = "Confirm Password";
+"Enter Your Confirm Password" = "Enter Your Confirm Password";
+"Complete your Registration" = "Complete your Registration";
+
+
+"Please Enter Your First Name" = "Please Enter Your First Name";
+"Please Enter Your Last Name" = "Please Enter Your Last Name";
+"Please Enter Your Email" = "Please Enter Your Email";
+"Please Enter Your Mobile Number" = "Please Enter Your Mobile Number";
+"Please Enter Your Password" = "Please Enter Your Password";
+"Please Enter Your Confirm Password" = "Please Enter Your Confirm Password";
+"Please Enter Valid Email Address" = "Please Enter Valid Email Address";
+"Password and Confirm Password are not same" = "Password and Confirm Password are not same";
+
+
+
+"Verification Code" = "Verification Code";
+"Enter Your Verification Code" = "Enter Your Verification Code";
+"Please Enter Valid Mobile Number" = "Please Enter Valid Mobile Number";
+
+"Location" = "Location";
+"Please Select Your Location" = "Please Select Your Location";
+"Select your location" = "Select your location";
+"Select your preffered location" = "Select your preffered location";
+
+
+"Any Field Shold not be empty" = "Any Field Shold not be empty";
+"OTP must be 4 Digit" = "OTP must be 4 Digit";
+"Submit OTP" = "Submit OTP";
+
+
+
+
+"View All Categories" = "View All Categories";
+"View All" = "View All";
+"Categories" = "Categories";
+"Search" = "Search";
+"Done" = "Done";
+"HOME" = "HOME";
+"FAVOURITE" = "FAVOURITE";
+"CART" = "CART";
+"PROFILE" = "PROFILE";
+"Product Detail" = "Product Detail";
+"Proceed To Card" = "Proceed To Card";
+"Buy Now" = "Buy Now";
+"Add To Cart" = "Add To Cart";
+"Categories" = "Categories";
+"Shipping Address" = "Shipping Address";
+"Address Type" = "Address Type";
+"Address" = "Address";
+"Delivery Date & Time" = "Delivery Date & Time";
+"Delivery Date" = "Delivery Date";
+"Delivery Time" = "Delivery Time";
+"Sub Total" = "Sub Total";
+"Vat" = "Vat";
+"Delivery Charges" = "Delivery Charges";
+"Promo Code Discount" = "Promo Code Discount";
+"Total" = "Total";
+"Apply Promo Code" = "Apply Promo Code";
+"Place My Order" = "Place My Order";
+"Select Address" = "Select Address";
+"Street Address" = "Street Address";
+"Address Type" = "Address Type";
+"Add Adddress" = "Add Adddress";
+"Home" = "Home";
+"Work" = "Work";
+"Other" = "Other";
+"Appartment" = "Appartment";
+"House" = "House";
+"Street Address" = "Street Address";
+"Area" = "Area";
+"City" = "City";
+"Select location on Map" = "Select location on Map";
+"Additional Notes" = "Additional Notes";
+"Next" = "Next";
+"Congratulations" = "Congratulations";
+"Your order has been sent" = "Your order has been sent";
+"Your Order Id is" = "Your Order Id is";
+"DONE" = "DONE";
+"Delete" = "Delete";
+"Edit" = "Edit";
+
+"Profile" = "Profile";
+"Edit Profile" = "Edit Profile";
+"My Orders" = "My Orders";
+"Notifications" = "Notifications";
+"My Favourites" = "My Favourites";
+"Categories" = "Categories";
+"Help Support" = "Help Support";
+"Privacy Policy" = "Privacy Policy";
+"Share App" = "Share App";
+"Edit Profile" = "Edit Profile";
+"Click on Lock Button to Change Password" = "Click on Lock Button to Change Password";
+"SAVE" = "SAVE";
+"Change Password" = "Change Password";
+"Please Enter New Password with Current Passsword" = "Please Enter New Password with Current Passsword";
+"My Orders" = "My Orders";
+"Order ID:" = "Order ID:";
+"Total Price" = "Total Price";
+"Delivery Date:" = "Delivery Date:";
+"Cancelled" = "Cancelled";
+"Delivery Information" = "Delivery Information";
+"Delivery Address" = "Delivery Address";
+"Notes" = "Notes";
+"Notifications" = "Notifications";
+"Help Support" = "Help Support";
+"Privacy Policy" = "Privacy Policy";
+"Cash on Delivery" = "Cash on Delivery";
+"Card On Delivery" = "Card On Delivery";
+
+"Pickup" = "Pickup";
+"Payment Method" = "Payment Method";
+"Add Address" = "Add Address";
+"My Cart" = "My Cart";
+"Select Date" = "Select Date";
+"Select Time" = "Select Time";
+"Payment Method" = "Payment Method";
+"Change Password" = "Change Password";
+"Current Password" = "Current Password";
+"New Password" = "New Password";
+"Email" = "Email";
+
+"Logout" = "Logout";
+"My Orders Details" = "My Orders Details";
+"Pending" = "Pending";
+"In Progress" = "In Progress";
+"On The Way" = "On The Way";
+"Complete" = "Complete";
+"Rejected" = "Rejected";
+"Favourites" = "Favourites";
+"Please Add Some Items to Cart" = "Please Add Some Items to Cart";
+"Please Select Address" = "Please Select Address";
+"Please Select Date" = "Please Select Date";
+"Please Select Time" = "Please Select Time";
+
+"You have Sucessfully Cancelled your Order" = "You have Sucessfully Cancelled your Order";
+"Order Cancelled" = "Order Cancelled";
+"Rating Submitted" = "Rating Submitted";
+"Please Enter Additional Notes" = "Please Enter Additional Notes";
+"Please Enter Area" = "Please Enter Area";
+"Please Enter Street Address" = "Please Enter Street Address";
+"Please Enter House" = "Please Enter House";
+"Please Enter Appartment Name" = "Please Enter Appartment Name";
+"Invalid PromoCode !" = "Invalid PromoCode !";
+"Change Password Successfully" = "Change Password Successfully";
+"New Password and Confirm Password does not match" = "New Password and Confirm Password does not match";
+"Please Enter Confirm Password" = "Please Enter Confirm Password";
+"Please Enter New Password" = "Please Enter New Password";
+"Please Enter Current Password" = "Please Enter Current Password";
+"Profile Picture Updated" = "Profile Picture Updated";
+"Updated Sucessfully" = "Updated Sucessfully";
+"Sorry ! You can not change your Mobile Number" = "Sorry ! You can not change your Mobile Number";
+"Do you Really want to Update your Profile ?" = "Do you Really want to Update your Profile ?";
+
+"User Information" = "User Information";
+"SignUp Information" = "SignUp Information";
+"Here is What we get from Your Social Handles" = "Here is What we get from Your Social Handles";
+"Please Select City" = "Please Select City";
+"Enter Promo Code" = "Enter Promo Code";
+"Enter Promocode Here" = "Enter Promocode Here";
+"Apply" = "Apply";
+"Recently Viewed" = "Recently Viewed";
+"Your Selected Location is:" = "Your Selected Location is:";
+"Postal Code" = "Postal Code";
+"Done" = "Done";
+"Location" = "Location";
+"Location Services are disabled" = "Location Services are disabled";
+"Please enable Location Services in your Settings" = "Please enable Location Services in your Settings";
+"Are you sure you want to cancel order?" = "Are you sure you want to cancel order?";
+"Are you Sure you want to logout?" = "Are you Sure you want to logout?";
+"Contact Support" = "Contact Support";
+"Cancel Order" = "Cancel Order";
+"Submit Rating" = "Submit Rating";
+"Email" = "Email";
+
+
+
+
+
