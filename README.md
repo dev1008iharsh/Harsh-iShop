@@ -11,7 +11,7 @@
 <img width="946" height="475" alt="iShop2" src="https://github.com/user-attachments/assets/20df4663-e7c2-492d-811e-b3609bfe2cde" />
 
 🎥 **App Video**  
-👉 https://youtu.be/0rNinqTVAGE  
+👉 [https://youtu.be/0rNinqTVAGE  ](https://www.youtube.com/watch?v=5Xz6Ubl3OWY)
 
 📸 **Screenshots**  
 👉 https://drive.google.com/drive/folders/1j5FF_C9C5CQqESvP6R-WVz5D76UFxm7m?usp=sharing  
