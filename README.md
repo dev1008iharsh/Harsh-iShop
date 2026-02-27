@@ -1,17 +1,98 @@
-# HarshiShop
- 
-This ios E-Commerse application made by harsh darji You can watch video of this applicaion on youtube - https://youtu.be/0rNinqTVAGE
+# 🛒 Harsh iShop — E-Commerce App (REST API • Laravel Backend)
 
-Here you can watch all the screen shot of the app - https://drive.google.com/drive/folders/1j5FF_C9C5CQqESvP6R-WVz5D76UFxm7m?usp=sharing
+> A complete native iOS e-commerce application built from scratch — design to deployment.
 
-### Note - I intentionally remove some parts of the project from every file and main storyboard so that no one can misuse my project. If you want to watch my full project code, you can contact me using any social media platform. If you are a developer, you can understand what I removed. On top of that, this is not my latest project; it was created in the initial years, so the code will look like that. This is a 100% working project, and I can run it on my Xcode.
- 
-My Linkedin profile Link - https://www.linkedin.com/in/harsh-darji-6a3741147
+---
 
-Application summary - Over the years, I've worked on many E-Commerce projects, one of which was my own project called Harsh iShop, which I fully developed from design to deploy, from design of graphical user interfaces to the IPA (iOS App Store Package), to sending applications to clients for testing. I was doing everything, right down to the coding.Product and order are managing from backend side which I managed to fit into my project. It supports displaying, searching, adding products to the cart, selecting a date and time for delivery of the products, applying coupon codes, updating addresses with a Google map, latitude-longitude, and the Google address autocomplete API, placing orders, viewing orders, and canceling orders.Support for customer support, Fresh chat SDK API, payment gateway implementation, multiple languages (English and Arabic), JSON Rest API, and swift model class implementation with suitable MVC architecture.
+## 📱 Preview
 
+<img width="1007" height="537" alt="iShop1" src="https://github.com/user-attachments/assets/0cce9dbe-c36f-49fe-a4eb-15e86ec066d0" />
 
+<img width="946" height="475" alt="iShop2" src="https://github.com/user-attachments/assets/20df4663-e7c2-492d-811e-b3609bfe2cde" />
 
- 
+🎥 **App Video**  
+👉 https://youtu.be/0rNinqTVAGE  
 
+📸 **Screenshots**  
+👉 https://drive.google.com/drive/folders/1j5FF_C9C5CQqESvP6R-WVz5D76UFxm7m?usp=sharing  
 
+---
+
+## 🚀 Overview
+
+Harsh iShop is a full-scale e-commerce mobile application developed independently, covering the complete lifecycle from UI design to IPA generation and client delivery.  
+The app integrates backend services for product management, orders, payments, delivery scheduling, and customer support to deliver a production-ready commerce experience.
+
+---
+
+## ✨ Key Features
+
+🛍️ **Product Discovery & Shopping**  
+- Product listing and search  
+- Add to cart and coupon application  
+- Complete purchase workflow  
+
+📦 **Order Management**  
+- Place, view, and cancel orders  
+- Delivery date & time scheduling  
+- Real-time order tracking  
+
+🗺️ **Location & Address Handling**  
+- Google Maps integration  
+- Latitude/Longitude support  
+- Address autocomplete API  
+
+💳 **Payments & Support**  
+- Payment gateway integration  
+- Customer support via Freshchat SDK  
+
+🌍 **Localization**  
+- Multi-language support (English & Arabic)  
+- Full RTL layout support  
+
+---
+
+## 🧠 Technical Highlights
+
+- Swift (UIKit)  
+- MVC Architecture  
+- REST API Integration (Laravel Backend)  
+- JSON Data Handling with SwiftyJSON  
+- Google Maps SDK  
+- Payment Gateway Integration  
+- Freshchat SDK  
+- Multilingual UI (LTR + RTL)  
+
+---
+
+## ⚠️ Disclaimer
+
+This project was created in **2020 during the early stage of my iOS development journey**.  
+Some parts of the source code and storyboard have been intentionally removed to prevent misuse.
+
+- The application is fully functional  
+- The project can still be built and run locally in Xcode  
+- Full source is available upon request for legitimate purposes  
+
+Most modern best practices were adopted in my later projects.
+
+---
+
+## 👨‍💻 Development Notes
+
+This application demonstrates my ability to deliver a complete production-ready product independently — including architecture, UI, backend integration, testing, and deployment preparation.
+
+---
+
+## 📬 Contact
+
+📧 dev.iharsh1008@gmail.com  
+📱 +91 9662108047  
+
+🌐 Portfolio: https://dev1008iharsh.github.io/  
+💼 LinkedIn: https://www.linkedin.com/in/dev1008iharsh/  
+🐙 GitHub Repositories: https://github.com/dev1008iharsh?tab=repositories  
+
+---
+
+⭐️ If you find this project useful, consider giving it a star.
